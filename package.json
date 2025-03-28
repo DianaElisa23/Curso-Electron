@@ -1,0 +1,28 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicacion de escritorio en electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaElisa23/Curso-Electron.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritori",
+    "Node.js",
+    "Multiplataforma"
+  ],
+  "author": "Diana Elisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaElisa23/Curso-Electron/issues"
+  },
+  "homepage": "https://github.com/DianaElisa23/Curso-Electron#readme",
+  "devDependencies": {
+    "electron": "^35.1.2"
+  }
+}
